@@ -1,36 +1,21 @@
-C:/Users/Bico/Desktop/ModelSIM_Test/Test1/LCLG.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/LCLG.v
+C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module LCLG_4
+-- Compiling module My_And_2
+-- Compiling module My_And_3
+-- Compiling module My_And_4
+-- Compiling module My_Or_2
+-- Compiling module My_Or_3
+-- Compiling module My_Or_4
 
 Top level modules:
-	LCLG_4
+	My_And_2
+	My_And_3
+	My_And_4
+	My_Or_2
+	My_Or_3
+	My_Or_4
 
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CLG.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CLG.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module CLG_2
--- Compiling module CLG_4
-
-Top level modules:
-	CLG_2
-	CLG_4
-
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/Full_Adder.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/Full_Adder.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CRA.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CRA.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module CRA_2
--- Compiling module CRA_4
--- Compiling module CRA_8
--- Compiling module CRA_16
--- Compiling module CRA_32
--- Compiling module CRA_64
-
-Top level modules:
-	CRA_16
-	CRA_64
-
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/HA_FA.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/HA_FA.v
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module HA
 -- Compiling module FA
@@ -39,7 +24,20 @@ Top level modules:
 	HA
 	FA
 
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CLA.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/CLA.v
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LCLA_4
+-- Compiling module LCLA_8
+-- Compiling module LCLA_16
+-- Compiling module LCLA_32
+-- Compiling module LCLA_64
+
+Top level modules:
+	LCLA_8
+	LCLA_32
+	LCLA_64
+
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/CLA.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/CLA.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module CLA_4
 -- Compiling module CLA_8
@@ -52,24 +50,36 @@ Top level modules:
 	CLA_32
 	CLA_64
 
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/TestBench.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/TestBench.v
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/LCLG.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/LCLG.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module TestBench
+-- Compiling module LCLG_4
 
 Top level modules:
-	TestBench
+	LCLG_4
 
-} {} {}} C:/Users/Bico/Desktop/ModelSIM_Test/Test1/LCLA.v {1 {vlog -work work C:/Users/Bico/Desktop/ModelSIM_Test/Test1/LCLA.v
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/CLG.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/CLG.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module LCLA_4
--- Compiling module LCLA_8
--- Compiling module LCLA_16
--- Compiling module LCLA_32
--- Compiling module LCLA_64
+-- Compiling module CLG_2
+-- Compiling module CLG_4
 
 Top level modules:
-	LCLA_8
-	LCLA_32
-	LCLA_64
+	CLG_2
+	CLG_4
+
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/Full_Adder.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/Full_Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Truc/Desktop/Verilog_Adder/CRA.v {1 {vlog -work work C:/Users/Truc/Desktop/Verilog_Adder/CRA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CRA_2
+-- Compiling module CRA_4
+-- Compiling module CRA_8
+-- Compiling module CRA_16
+-- Compiling module CRA_32
+-- Compiling module CRA_64
+
+Top level modules:
+	CRA_16
+	CRA_64
 
 } {} {}}
