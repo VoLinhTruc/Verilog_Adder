@@ -6,7 +6,7 @@ module My_And_2
 );
 
     always @ (in1, in2) begin
-        out <= #3 in1 & in2;
+        out <= #1 in1 & in2;
     end
 
 endmodule
@@ -22,7 +22,7 @@ module My_And_3
 );
 
     always @ (in1, in2, in3) begin
-        out <= #3 in1 & in2 & in3;
+        out <= #1 in1 & in2 & in3;
     end
 
 endmodule
@@ -39,7 +39,7 @@ module My_And_4
 );
 
     always @ (in1, in2, in3, in4) begin
-        out <= #3 in1 & in2 & in3 & in4;
+        out <= #1 in1 & in2 & in3 & in4;
     end
 
 endmodule
@@ -54,7 +54,7 @@ module My_Or_2
 );
 
     always @ (in1, in2) begin
-        out <= #3 in1 | in2;
+        out <= #1 in1 | in2;
     end
 
 endmodule
@@ -70,7 +70,7 @@ module My_Or_3
 );
 
     always @ (in1, in2, in3) begin
-        out <= #3 in1 | in2 | in3;
+        out <= #1 in1 | in2 | in3;
     end
 
 endmodule
@@ -87,7 +87,22 @@ module My_Or_4
 );
 
     always @ (in1, in2, in3, in4) begin
-        out <= #3 in1 | in2 | in3 | in4;
+        out <= #1 in1 | in2 | in3 | in4;
+    end
+
+endmodule
+
+
+
+module My_Xor_2
+(
+    input in1,
+    input in2,
+    output reg out
+);
+
+    always @ (in1, in2) begin
+        out <= #1 in1 ^ in2;
     end
 
 endmodule

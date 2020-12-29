@@ -12,13 +12,43 @@ module CLA_4
     output P_out,
     output C_out
 );
-    wire [3:0] G = A_in & B_in;
-    wire [3:0] P = A_in | B_in;
+    // wire [3:0] G = A_in & B_in;
+    // wire [3:0] P = A_in | B_in;
+    // wire [3:0] C;
+
+    // CLG_4 clg_4(.G_in(G), .P_in(P), .C_in(C_in), .G_out(G_out), .P_out(P_out), .C_out({C_out, C}));
+
+    // assign S_out = A_in ^ B_in ^ C;
+
+    wire [3:0] G;
+    wire [3:0] P;
     wire [3:0] C;
+
+    My_And_2 and2_1(A_in[0], B_in[0], G[0]);
+    My_And_2 and2_2(A_in[1], B_in[1], G[1]);
+    My_And_2 and2_3(A_in[2], B_in[2], G[2]);
+    My_And_2 and2_4(A_in[3], B_in[3], G[3]);
+
+    My_Or_2 or2_1(A_in[0], B_in[0], P[0]);
+    My_Or_2 or2_2(A_in[1], B_in[1], P[1]);
+    My_Or_2 or2_3(A_in[2], B_in[2], P[2]);
+    My_Or_2 or2_4(A_in[3], B_in[3], P[3]);
+
 
     CLG_4 clg_4(.G_in(G), .P_in(P), .C_in(C_in), .G_out(G_out), .P_out(P_out), .C_out({C_out, C}));
 
-    assign S_out = A_in ^ B_in ^ C;
+
+    wire [3:0] w;
+
+    My_Xor_2 xor2_1(B_in[0], C[0], w[0]);
+    My_Xor_2 xor2_2(B_in[1], C[1], w[1]);
+    My_Xor_2 xor2_3(B_in[2], C[2], w[2]);
+    My_Xor_2 xor2_4(B_in[3], C[3], w[3]);
+    
+    My_Xor_2 xor2_5(A_in[0], w[0], S_out[0]);
+    My_Xor_2 xor2_6(A_in[1], w[1], S_out[1]);
+    My_Xor_2 xor2_7(A_in[2], w[2], S_out[2]);
+    My_Xor_2 xor2_8(A_in[3], w[3], S_out[3]);
 endmodule
 
 

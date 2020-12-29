@@ -4,18 +4,18 @@ K3
 cModel Technology
 Z0 dC:\altera\13.0sp1
 vCLA_16
-Z1 !s100 d`WE2V_NW;3Y2k7k0R=RO1
-Z2 IGdh9G[jikX1=M1VE0TYRW2
+Z1 !s100 H>J:<YPzUzK;bOgadg4Wm3
+Z2 IU5czM_WgNYNOGNkNT9Jfd2
 Z3 V6V__0?O7M`eEIk;W0_1Ue0
 Z4 dC:\Users\Truc\Desktop\Verilog_Adder
-Z5 w1608223183
+Z5 w1608995837
 Z6 8C:/Users/Truc/Desktop/Verilog_Adder/CLA.v
 Z7 FC:/Users/Truc/Desktop/Verilog_Adder/CLA.v
-L0 47
+L0 77
 Z8 OV;L;10.1d;51
 r1
 31
-Z9 !s108 1608738715.336000
+Z9 !s108 1609238773.526000
 Z10 !s107 C:/Users/Truc/Desktop/Verilog_Adder/CLA.v|
 Z11 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/CLA.v|
 Z12 o-work work -O0
@@ -24,14 +24,14 @@ Z13 n@c@l@a_16
 !s85 0
 !s101 -O0
 vCLA_32
-Z14 !s100 Q:IIl^>O?;0VXU>mb]GWI3
-Z15 IH^WVR=IjOiP@z?0dNXmd_0
+Z14 !s100 Z6ENMZPVYG9EMiodzzUA@1
+Z15 I`YX=jP2HShe5O@zzVYiT_3
 Z16 VZP1P4]_a]12l>k9I4=Jg`2
 R4
 R5
 R6
 R7
-L0 71
+Z17 L0 101
 R8
 r1
 31
@@ -39,14 +39,14 @@ R9
 R10
 R11
 R12
-Z17 n@c@l@a_32
+Z18 n@c@l@a_32
 !i10b 1
 !s85 0
 !s101 -O0
 vCLA_4
-Z18 !s100 6^81CJgFPUnbMUcIRGSTe1
-Z19 IH5j4@jR[;bUn;9LHD<ACk0
-Z20 VLPI8NecKKTfP>X:hGnThJ0
+Z19 !s100 _SYJ@3X@1MJ=I2MV38bVZ1
+Z20 I_OR;Gj?N:0?39UBgF[?bL0
+Z21 VLPI8NecKKTfP>X:hGnThJ0
 R4
 R5
 R6
@@ -59,19 +59,19 @@ R9
 R10
 R11
 R12
-Z21 n@c@l@a_4
+Z22 n@c@l@a_4
 !i10b 1
 !s85 0
 !s101 -O0
 vCLA_64
-Z22 !s100 P3_^a>;VTG^7<CTFSYQMN2
-Z23 IoGcC]hcbAXP>5hUXoE^>13
-Z24 VDFPMJ:bnk7<@Lb_59IRZc0
+Z23 !s100 5ANJPi^LYM@HF`zH_DOE53
+Z24 I2DlQ:oc;1VJ2^;knME__62
+Z25 VDFPMJ:bnk7<@Lb_59IRZc0
 R4
 R5
 R6
 R7
-L0 93
+Z26 L0 123
 R8
 r1
 31
@@ -79,19 +79,19 @@ R9
 R10
 R11
 R12
-Z25 n@c@l@a_64
+Z27 n@c@l@a_64
 !i10b 1
 !s85 0
 !s101 -O0
 vCLA_8
-Z26 !s100 :nbzQG@6>HVTo^JiOP<TJ3
-Z27 I`iNUV9C36F]B_=idRUozl0
-Z28 VdE93?be0WA<9D[PY4aGij3
+Z28 !s100 S2PO4d5oZ^^8i3EaCd<<F3
+Z29 IM[gmQihf<z1:A1RM=RKl@2
+Z30 VdE93?be0WA<9D[PY4aGij3
 R4
 R5
 R6
 R7
-L0 25
+L0 55
 R8
 r1
 31
@@ -99,467 +99,507 @@ R9
 R10
 R11
 R12
-Z29 n@c@l@a_8
+Z31 n@c@l@a_8
 !i10b 1
 !s85 0
 !s101 -O0
 vCLG_2
-Z30 !s100 F2Q3]T=Pd]d][dYm99HWf2
-Z31 IBQSh8`AR1mjZ>bU8c[lLc1
-Z32 V7eMAaCmW<mQJ@V<KnZ?WH3
+Z32 !s100 F2Q3]T=Pd]d][dYm99HWf2
+Z33 IBQSh8`AR1mjZ>bU8c[lLc1
+Z34 V7eMAaCmW<mQJ@V<KnZ?WH3
 R4
-Z33 w1608737935
-Z34 8C:/Users/Truc/Desktop/Verilog_Adder/CLG.v
-Z35 FC:/Users/Truc/Desktop/Verilog_Adder/CLG.v
+Z35 w1608996099
+Z36 8C:/Users/Truc/Desktop/Verilog_Adder/CLG.v
+Z37 FC:/Users/Truc/Desktop/Verilog_Adder/CLG.v
 L0 5
 R8
 r1
 31
-Z36 !s108 1608738715.476000
-Z37 !s107 C:/Users/Truc/Desktop/Verilog_Adder/CLG.v|
-Z38 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/CLG.v|
+Z38 !s108 1609238773.589000
+Z39 !s107 C:/Users/Truc/Desktop/Verilog_Adder/CLG.v|
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/CLG.v|
 R12
-Z39 n@c@l@g_2
+Z41 n@c@l@g_2
 !i10b 1
 !s85 0
 !s101 -O0
 vCLG_4
-Z40 !s100 c`gTbZ@C3ZazLM:Dm;4VT0
-Z41 IKoD[DbS<`@9`HYW1gUl:a3
-Z42 VoHPaC<>fLj;db>9a6a1VD2
+Z42 !s100 EHY7c>eebBQ:R=PmoQkXj0
+Z43 IS0GAU0>zf?81B<AQDeGM=3
+Z44 VoHPaC<>fLj;db>9a6a1VD2
 R4
-R33
-R34
 R35
+R36
+R37
 L0 26
 R8
 r1
 31
-R36
-R37
 R38
+R39
+R40
 R12
-Z43 n@c@l@g_4
+Z45 n@c@l@g_4
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_16
-Z44 !s100 eJY5oE4Jl[[I5Wc]n4W@O2
-Z45 IROXoY3[Z47HhIaSh;7;1W1
-Z46 V>h`T=^70<PHZ9bMAWJdB?2
+Z46 !s100 eJY5oE4Jl[[I5Wc]n4W@O2
+Z47 IROXoY3[Z47HhIaSh;7;1W1
+Z48 V>h`T=^70<PHZ9bMAWJdB?2
 R4
-R5
-Z47 8C:/Users/Truc/Desktop/Verilog_Adder/CRA.v
-Z48 FC:/Users/Truc/Desktop/Verilog_Adder/CRA.v
+Z49 w1608223183
+Z50 8C:/Users/Truc/Desktop/Verilog_Adder/CRA.v
+Z51 FC:/Users/Truc/Desktop/Verilog_Adder/CRA.v
 L0 53
 R8
 r1
 31
-Z49 !s108 1608738715.554000
-Z50 !s107 C:/Users/Truc/Desktop/Verilog_Adder/CRA.v|
-Z51 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/CRA.v|
+Z52 !s108 1609238773.651000
+Z53 !s107 C:/Users/Truc/Desktop/Verilog_Adder/CRA.v|
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/CRA.v|
 R12
-Z52 n@c@r@a_16
+Z55 n@c@r@a_16
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_2
-Z53 !s100 RIF^RB<4Jnf^ojhOE?Sj02
-Z54 IldXaFne?=nWkd2OB@_<[j0
-Z55 V>j8fkmbN_[>NcPUV>Fc:11
+Z56 !s100 RIF^RB<4Jnf^ojhOE?Sj02
+Z57 IldXaFne?=nWkd2OB@_<[j0
+Z58 V>j8fkmbN_[>NcPUV>Fc:11
 R4
-R5
-R47
-R48
+R49
+R50
+R51
 L0 5
 R8
 r1
 31
-R49
-R50
-R51
+R52
+R53
+R54
 R12
-Z56 n@c@r@a_2
+Z59 n@c@r@a_2
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_32
-Z57 !s100 EX=Vme7e[MeFh48UmK3d^3
-Z58 I6Ci@hGfV6`R<XfC^CIG9k0
-Z59 V2j@K5m4@;gcJT`7U`K0;A1
+Z60 !s100 EX=Vme7e[MeFh48UmK3d^3
+Z61 I6Ci@hGfV6`R<XfC^CIG9k0
+Z62 V2j@K5m4@;gcJT`7U`K0;A1
 R4
-R5
-R47
-R48
+R49
+R50
+R51
 L0 69
 R8
 r1
 31
-R49
-R50
-R51
+R52
+R53
+R54
 R12
-Z60 n@c@r@a_32
+Z63 n@c@r@a_32
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_4
-Z61 !s100 f^Kc`BI=]DPTJfB3UKd7D3
-Z62 IFaS5mNGm;HCD7LMF;AiW:0
-Z63 VoMjAUFVALVh9<z`K`dzGf0
+Z64 !s100 f^Kc`BI=]DPTJfB3UKd7D3
+Z65 IFaS5mNGm;HCD7LMF;AiW:0
+Z66 VoMjAUFVALVh9<z`K`dzGf0
 R4
-R5
-R47
-R48
+R49
+R50
+R51
 L0 21
 R8
 r1
 31
-R49
-R50
-R51
+R52
+R53
+R54
 R12
-Z64 n@c@r@a_4
+Z67 n@c@r@a_4
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_64
-Z65 !s100 ?gO[Ml]dN:HKV6;?^12_n1
-Z66 I8e9LXWBZWm3dDUYWm_C6l3
-Z67 V6Mc?3dB^I^bzKjgBZH[Ck3
+Z68 !s100 ?gO[Ml]dN:HKV6;?^12_n1
+Z69 I8e9LXWBZWm3dDUYWm_C6l3
+Z70 V6Mc?3dB^I^bzKjgBZH[Ck3
 R4
-R5
-R47
-R48
+R49
+R50
+R51
 L0 85
 R8
 r1
 31
-R49
-R50
-R51
+R52
+R53
+R54
 R12
-Z68 n@c@r@a_64
+Z71 n@c@r@a_64
 !i10b 1
 !s85 0
 !s101 -O0
 vCRA_8
-Z69 !s100 ^RooOUklB=0Lkc?c:GA2S0
-Z70 IXCL;8<51oOdFnjo^jk8Mo1
-Z71 VJOWW2]XTZomJ`OP_4E_[a3
+Z72 !s100 ^RooOUklB=0Lkc?c:GA2S0
+Z73 IXCL;8<51oOdFnjo^jk8Mo1
+Z74 VJOWW2]XTZomJ`OP_4E_[a3
 R4
-R5
-R47
-R48
+R49
+R50
+R51
 L0 37
 R8
 r1
 31
-R49
-R50
-R51
+R52
+R53
+R54
 R12
-Z72 n@c@r@a_8
+Z75 n@c@r@a_8
 !i10b 1
 !s85 0
 !s101 -O0
 vFA
-Z73 !s100 Y7<GgGLAm30Cl1VF_98O?2
-Z74 IzUQ4Y?_[IV9H?QI71e^hd0
-Z75 V=;FAeU3Y7bj;gOVankdAo1
+Z76 !s100 ZX2odl=<GKIhAH@SA1Wm82
+Z77 I9PY@7@cgi_8AKj^Q;QPgj2
+Z78 V=;FAeU3Y7bj;gOVankdAo1
 R4
-R5
-Z76 8C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v
-Z77 FC:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v
+Z79 w1608991846
+Z80 8C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v
+Z81 FC:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v
 L0 17
 R8
 r1
 31
-Z78 !s108 1608738715.742000
-Z79 !s107 C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v|
-Z80 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v|
+Z82 !s108 1609238773.776000
+Z83 !s107 C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v|
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/HA_FA.v|
 R12
 n@f@a
 !i10b 1
 !s85 0
 !s101 -O0
 vHA
-Z81 !s100 ijTJC:jbl88NK^mWWl2092
-Z82 I_fYG^Xh[l@RDH?ziheScH2
-Z83 V[0i`dE>Gg67:BcPCCbk6j0
+Z85 !s100 ijTJC:jbl88NK^mWWl2092
+Z86 I_fYG^Xh[l@RDH?ziheScH2
+Z87 V[0i`dE>Gg67:BcPCCbk6j0
 R4
-R5
-R76
-R77
+R79
+R80
+R81
 L0 5
 R8
 r1
 31
-R78
-R79
-R80
+R82
+R83
+R84
 R12
 n@h@a
 !i10b 1
 !s85 0
 !s101 -O0
 vLCLA_16
-Z84 !s100 FUK^E7e3l_]XUhCLWWUBB0
-Z85 IXXR>2?[iDOLBHk<HPXfj;3
-Z86 VQM=:z1SHW3VW22Zb_ic1?1
+Z88 !s100 e2KRbAf8RCUZiK[b:ZKEP1
+Z89 I3N]LFjXPGP]Z9ebZjP9di2
+Z90 VQM=:z1SHW3VW22Zb_ic1?1
 R4
-R5
-Z87 8C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v
-Z88 FC:/Users/Truc/Desktop/Verilog_Adder/LCLA.v
-L0 47
+Z91 w1609164147
+Z92 8C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v
+Z93 FC:/Users/Truc/Desktop/Verilog_Adder/LCLA.v
+L0 77
 R8
 r1
 31
-Z89 !s108 1608738715.820000
-Z90 !s107 C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v|
-Z91 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v|
+Z94 !s108 1609238773.839000
+Z95 !s107 C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v|
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/LCLA.v|
 R12
-Z92 n@l@c@l@a_16
+Z97 n@l@c@l@a_16
 !i10b 1
 !s85 0
 !s101 -O0
 vLCLA_32
-Z93 !s100 n;K0za7A><a5If9UePcS^1
-Z94 IbhijjJQ:fY=?0::egg6>z3
-Z95 V@P2WlZEW?acHDCTQAS_bJ1
+Z98 !s100 ]`EZj70X:b<[[Yf_T11;k2
+Z99 I:ckNC<=f4a6LEd^P9?Z5j2
+Z100 V@P2WlZEW?acHDCTQAS_bJ1
 R4
-R5
-R87
-R88
-L0 71
+R91
+R92
+R93
+R17
 R8
 r1
 31
-R89
-R90
-R91
+R94
+R95
+R96
 R12
-Z96 n@l@c@l@a_32
+Z101 n@l@c@l@a_32
 !i10b 1
 !s85 0
 !s101 -O0
 vLCLA_4
-Z97 !s100 M::55bZDkW8`]A[ELAlok1
-Z98 IHO1dY0;]MzXDoZXP<PFek3
-Z99 VN:bBjffa7;6SM@Aa3mikQ3
+Z102 !s100 88i@BbC6M:Z7:B9FZ?[TX0
+Z103 I9FbDUVdHCcki36lL>dH9[2
+Z104 VN:bBjffa7;6SM@Aa3mikQ3
 R4
-R5
-R87
-R88
+R91
+R92
+R93
 L0 5
 R8
 r1
 31
-R89
-R90
-R91
+R94
+R95
+R96
 R12
-Z100 n@l@c@l@a_4
+Z105 n@l@c@l@a_4
 !i10b 1
 !s85 0
 !s101 -O0
 vLCLA_64
-Z101 !s100 28ka5iD08S2Woz;19Fngg0
-Z102 I_?TXkDCz>R;e^3OWckHOJ1
-Z103 V@db5ZEd4<WlcT7dmgLf8e2
+Z106 !s100 f4X1VfFMiCQzEL9UPbE;Z2
+Z107 ID]^6CGiPT[nfZP4dhI`:g1
+Z108 V@db5ZEd4<WlcT7dmgLf8e2
 R4
-R5
-R87
-R88
-L0 93
+R91
+R92
+R93
+R26
 R8
 r1
 31
-R89
-R90
-R91
+R94
+R95
+R96
 R12
-Z104 n@l@c@l@a_64
+Z109 n@l@c@l@a_64
 !i10b 1
 !s85 0
 !s101 -O0
 vLCLA_8
-Z105 !s100 lg6FMXh3WzQZ@FoB4zh>V0
-Z106 I[>Le2YT7`TE?d4FEO9leO0
-Z107 VSlP<U8iZM1SaAnW9bY04A2
+Z110 !s100 NC^o<4Ua:KMfaPC?[5oO31
+Z111 IKQSZzoA]D?]7R9If>6M:H3
+Z112 VSlP<U8iZM1SaAnW9bY04A2
 R4
-R5
-R87
-R88
-L0 25
+R91
+R92
+R93
+L0 55
 R8
 r1
 31
-R89
-R90
-R91
+R94
+R95
+R96
 R12
-Z108 n@l@c@l@a_8
+Z113 n@l@c@l@a_8
 !i10b 1
 !s85 0
 !s101 -O0
-vLCLG_4
-Z109 !s100 mfR<l0<FEoX7Lm_jH8=980
-Z110 Ig3hP7GnocbfRz2XH`<I`E3
-Z111 V86mUG8Dh7doCl_<XE]39h3
+vLCRA_16
+!i10b 1
+Z114 !s100 0V_<:Ta9Z9DHiOg<]>1@n0
+Z115 I:6EeQcAHcjRCi4L2;LALY2
+Z116 VFb;hSj;oGPaOX__<JRG6c2
 R4
-Z112 w1608738392
-Z113 8C:/Users/Truc/Desktop/Verilog_Adder/LCLG.v
-Z114 FC:/Users/Truc/Desktop/Verilog_Adder/LCLG.v
+Z117 w1609163831
+Z118 8C:/Users/Truc/Desktop/Verilog_Adder/LCRA.v
+Z119 FC:/Users/Truc/Desktop/Verilog_Adder/LCRA.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1609238774.119000
+!s107 C:/Users/Truc/Desktop/Verilog_Adder/LCRA.v|
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/LCRA.v|
+!s101 -O0
+R12
+Z121 n@l@c@r@a_16
+vLG_4
+Z122 !s100 ZYOPokA7N;@JMmA9Lh_af0
+Z123 ISgd;jfe:eaZ1K]U8Rcd]M2
+Z124 V4ZE=hk2dDf0NQ9AKcDYP:0
+R4
+Z125 w1609162390
+Z126 8C:/Users/Truc/Desktop/Verilog_Adder/LG.v
+Z127 FC:/Users/Truc/Desktop/Verilog_Adder/LG.v
 L0 5
 R8
 r1
 31
-Z115 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/LCLG.v|
+Z128 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/LG.v|
 R12
-Z116 n@l@c@l@g_4
-Z117 !s108 1608738715.961000
-Z118 !s107 C:/Users/Truc/Desktop/Verilog_Adder/LCLG.v|
+Z129 n@l@c@l@g_4
 !i10b 1
 !s85 0
+Z130 !s108 1609238774.066000
+Z131 !s107 C:/Users/Truc/Desktop/Verilog_Adder/LG.v|
 !s101 -O0
 vMy_And_2
-!i10b 1
-Z119 !s100 R?j5[cCL<03o@N^FkiN532
-Z120 I?<Do0QW@IYRlBe`>eR=UM2
-Z121 VT=I:CXXRabGSZ?QgTAZoN0
+Z132 !s100 `jd9JMeP_`9iTcKh;5aC61
+Z133 I5^g9;ClPmG:XESX2_z[d=0
+Z134 VT=I:CXXRabGSZ?QgTAZoN0
 R4
-Z122 w1608738432
-Z123 8C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v
-Z124 FC:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v
+Z135 w1609163886
+Z136 8C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v
+Z137 FC:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v
 L0 1
 R8
 r1
-!s85 0
 31
-Z125 !s108 1608738716.101000
-Z126 !s107 C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v|
-Z127 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v|
-!s101 -O0
+Z138 !s108 1609238773.973000
+Z139 !s107 C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v|
+Z140 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/Basic_Logic.v|
 R12
-Z128 n@my_@and_2
-vMy_And_3
+Z141 n@my_@and_2
 !i10b 1
-Z129 !s100 B@CgMDQUH;Io1G;?P42Vk3
-Z130 IZ1l<9GkCY939_Gl>WAj<J3
-Z131 VQfZ1O<c0]hiV^I53XUFOz1
+!s85 0
+!s101 -O0
+vMy_And_3
+Z142 !s100 ^=7[L2k[ba;NeQ[i@X_ze1
+Z143 I@`EZaI3T390_cO<2jCH>D0
+Z144 VQfZ1O<c0]hiV^I53XUFOz1
 R4
-R122
-R123
-R124
+R135
+R136
+R137
 L0 16
 R8
 r1
-!s85 0
 31
-R125
-R126
-R127
-!s101 -O0
+R138
+R139
+R140
 R12
-Z132 n@my_@and_3
-vMy_And_4
+Z145 n@my_@and_3
 !i10b 1
-Z133 !s100 ECTSnik:01MAj;Z`VmNn`2
-Z134 I6L8E4D9WCdfzE[XAZ`SDb2
-Z135 VVkY;b]>=c_z?j5io]69NN1
+!s85 0
+!s101 -O0
+vMy_And_4
+Z146 !s100 L2Hm6dQi<CD`D]dnI74jZ3
+Z147 IY[=90HkNXi4o=XMUokE1h1
+Z148 VVkY;b]>=c_z?j5io]69NN1
 R4
-R122
-R123
-R124
+R135
+R136
+R137
 L0 32
 R8
 r1
-!s85 0
 31
-R125
-R126
-R127
-!s101 -O0
+R138
+R139
+R140
 R12
-Z136 n@my_@and_4
-vMy_Or_2
+Z149 n@my_@and_4
 !i10b 1
-Z137 !s100 =PH:=A]TiQMf5MKlG_mDW2
-Z138 IG=Y:baC_NSoH5AMkCOI0k0
-Z139 VJbCPZ`<0LnQ_RIz6<JF7A1
+!s85 0
+!s101 -O0
+vMy_Or_2
+Z150 !s100 38M>:o3kmca`kTSU[VFd^1
+Z151 IPh87o11gZ]`>nTPSCa=6W2
+Z152 VJbCPZ`<0LnQ_RIz6<JF7A1
 R4
-R122
-R123
-R124
+R135
+R136
+R137
 L0 49
 R8
 r1
-!s85 0
 31
-R125
-R126
-R127
-!s101 -O0
+R138
+R139
+R140
 R12
-Z140 n@my_@or_2
-vMy_Or_3
+Z153 n@my_@or_2
 !i10b 1
-Z141 !s100 CKgD:N3gD3QFEg@SgioYK0
-Z142 IRz??ZD<0zlFo=4IaEL;AC1
-Z143 V73_]n95GQ<m8MCWC>m=Wo3
+!s85 0
+!s101 -O0
+vMy_Or_3
+Z154 !s100 BS=iY65bXcSEFlb[Xaa2S2
+Z155 I;kmjL;;9hLcG=Y9[=7AdF3
+Z156 V73_]n95GQ<m8MCWC>m=Wo3
 R4
-R122
-R123
-R124
+R135
+R136
+R137
 L0 64
 R8
 r1
-!s85 0
 31
-R125
-R126
-R127
-!s101 -O0
+R138
+R139
+R140
 R12
-Z144 n@my_@or_3
-vMy_Or_4
+Z157 n@my_@or_3
 !i10b 1
-Z145 !s100 9zGXSlXfFLB@m7?Cb?j]O3
-Z146 I6=KzgdR[MjUPH_OOk_aI61
-Z147 VWbLCEQ=9[WLn@nc790A_H2
+!s85 0
+!s101 -O0
+vMy_Or_4
+Z158 !s100 >i@jk:O:4PW6OM@l^h^901
+Z159 IgKONS0d;QTK=GkWNmo:cW0
+Z160 VWbLCEQ=9[WLn@nc790A_H2
 R4
-R122
-R123
-R124
+R135
+R136
+R137
 L0 80
 R8
 r1
-!s85 0
 31
-R125
-R126
-R127
-!s101 -O0
+R138
+R139
+R140
 R12
-Z148 n@my_@or_4
-vTestBench
-Z149 IV3enh?ZikUV2`=eMah<4^1
-Z150 VH;VS]59WmQ>4a<zRibM9Z0
+Z161 n@my_@or_4
+!i10b 1
+!s85 0
+!s101 -O0
+vMy_Xor_2
+Z162 !s100 96[cSo2FK?i7[E1^74WnL0
+Z163 ILQZ?Im_>0?e2c3ZZ17I<K1
+Z164 VEI2<Yb:jYI5MU7`SXES3i1
 R4
-Z151 w1608738714
-Z152 8C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v
-Z153 FC:/Users/Truc/Desktop/Verilog_Adder/TestBench.v
-L0 1
+R135
+R136
+R137
+L0 97
 R8
 r1
 31
-Z154 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v|
+R138
+R139
+R140
 R12
-Z155 n@test@bench
+Z165 n@my_@xor_2
 !i10b 1
-Z156 !s100 :93J?Xm<z=S_QCT5TQ]<H2
 !s85 0
-Z157 !s108 1608738716.023000
-Z158 !s107 C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v|
+!s101 -O0
+vTestBench
+Z166 IOiUPEPK^4Wa?B[Y7IVj1d2
+Z167 V88;9PDl9jnnYX1^IFi>g=3
+R4
+Z168 w1609238769
+Z169 8C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v
+Z170 FC:/Users/Truc/Desktop/Verilog_Adder/TestBench.v
+L0 72
+R8
+r1
+31
+Z171 !s90 -reportprogress|300|-work|work|C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v|
+R12
+Z172 n@test@bench
+Z173 !s100 MnD3EOVl]Z4QU0kDba13l3
+Z174 !s108 1609238773.916000
+Z175 !s107 C:/Users/Truc/Desktop/Verilog_Adder/TestBench.v|
+!i10b 1
+!s85 0
 !s101 -O0
